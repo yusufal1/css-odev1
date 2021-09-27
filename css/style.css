@@ -1,0 +1,39 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+nav{
+    background-color: #333;
+}
+
+nav ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.text-blue{
+    color: rgb(17, 146, 179);
+}
+
+section img{
+    width: 500px;
+}
